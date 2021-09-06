@@ -1,1 +1,1 @@
-# World Happiness Project
+# World Happiness Report
